@@ -22,3 +22,5 @@ ipython_config.py
 *.geojson
 *.csv
 Images/*
+
+__pycache__*
